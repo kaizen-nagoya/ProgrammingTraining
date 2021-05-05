@@ -7,7 +7,7 @@ In First Periods, There are 4 cources, such as Music, Paintings, Characters and 
 Each coursed has 3 years items
   
 |Course |year 1 | year 2 | year 3| year 4|
-|:---|:---:|---:|
+|:---|:---:|---:|:---:|---:|
 |Music  |Music 1 |music 2 |Music 3| Music 4|
 |Paintings |Painting 1 |Painting 2 | Painting 3| Painting 4 |
 |Characters |Character 1| Character 2| Character 3| Character 4|
